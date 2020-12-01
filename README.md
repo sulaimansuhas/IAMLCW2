@@ -2,4 +2,4 @@
 Coursework2 for Introduction to applied machine learning 2020
 
 
-All the code is in templates for the questions in IAML_2020_CW2_INFR10069_Instructions.pdf
+All the code is in the templates folder for the questions in IAML_2020_CW2_INFR10069_Instructions.pdf
